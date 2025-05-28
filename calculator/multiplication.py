@@ -1,5 +1,5 @@
 """multiplication"""
 
-def sum(a, b):
+def multiplicate(a, b):
     """function for multiplication"""
     return a * b
