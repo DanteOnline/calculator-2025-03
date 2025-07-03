@@ -1,5 +1,5 @@
-"""multiplication"""
+"""multiplication count"""
 
 def multiplication(a, b):
-    """function for multiplication"""
+    """function for multiplication count"""
     return a * b
